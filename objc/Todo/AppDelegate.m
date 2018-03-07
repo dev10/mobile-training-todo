@@ -14,7 +14,7 @@
 #define kLoggingEnabled YES
 #define kLoginFlowEnabled NO
 #define kSyncEnabled NO
-#define kSyncEndpoint @"ws://localhost:4984/todo"
+#define kSyncEndpoint @"ws://192.168.1.51:4984/todo"
 
 @interface AppDelegate () <CBLLoginViewControllerDelegate> {
     CBLReplicator *_replicator;

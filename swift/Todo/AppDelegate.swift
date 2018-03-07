@@ -13,7 +13,7 @@ import CouchbaseLiteSwift
 let kLoggingEnabled = true
 let kLoginFlowEnabled = false
 let kSyncEnabled = false
-let kSyncEndpoint = "ws://localhost:4984/todo"
+let kSyncEndpoint = "ws://192.168.1.51:4984/todo"
 
 // Constants:
 let kActivities = ["Stopped", "Offline", "Connecting", "Idle", "Busy"]
