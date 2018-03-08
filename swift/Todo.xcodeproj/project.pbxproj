@@ -161,7 +161,7 @@
 				TargetAttributes = {
 					93F4B2BE1C6940D6005FF4D8 = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = N2Q372V7W2;
+						DevelopmentTeam = QT8EV8AL2J;
 						LastSwiftMigration = 0920;
 					};
 				};
@@ -344,7 +344,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = N2Q372V7W2;
+				DEVELOPMENT_TEAM = QT8EV8AL2J;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -371,7 +371,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = N2Q372V7W2;
+				DEVELOPMENT_TEAM = QT8EV8AL2J;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
