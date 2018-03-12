@@ -175,7 +175,7 @@ class TasksViewController: UITableViewController, UISearchResultsUpdating, UISea
             dbChangeListener = database.addChangeListener({ [weak self] (change) in
                 guard let strongSelf = self else { return }
                 for docId in change.documentIDs {
-                    if docId == moderatorDocId {
+                    if docId as? String == moderatorDocId {
                         strongSelf.displayOrHideUsers()
                         break
                     }

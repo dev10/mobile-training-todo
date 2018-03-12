@@ -12,8 +12,8 @@
 #import "CBLUi.h"
 
 #define kLoggingEnabled YES
-#define kLoginFlowEnabled NO
-#define kSyncEnabled NO
+#define kLoginFlowEnabled YES
+#define kSyncEnabled YES
 #define kSyncEndpoint @"ws://192.168.1.51:4984/todo"
 
 @interface AppDelegate () <CBLLoginViewControllerDelegate> {
